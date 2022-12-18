@@ -1,4 +1,4 @@
-<h1>Azure static resume website</h1>
+<h1>How to create a resume website using Azure</h1>
 
 <h2>Description</h2>
 
