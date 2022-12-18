@@ -13,6 +13,11 @@ This project will demonstrate how to run a credential scan using Nessus Essentia
 
 <h2>Environments Used </h2>
 
+<h2>YouTube Demonstration </h2>
+
+[How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website
+
+
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Configuring the credential scan</H3>
 
