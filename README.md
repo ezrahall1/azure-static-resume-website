@@ -15,6 +15,7 @@ This project will demonstrate how to run a credential scan using Nessus Essentia
 - <b>Static website</b>
 - <b>Custom domain</b>
 - <b>Containers</b>
+- <b>DNS provider</b>
 
 <h2>Environments Used </h2>
 
