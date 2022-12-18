@@ -12,7 +12,7 @@ This project will demonstrate how to run a credential scan using Nessus Essentia
 - <b>Nessus Essentials</b> 
 
 <h2>Environments Used </h2>
-Azure
+- <b>Azure</b>
 
 <h2>YouTube Demonstration </h2>
 
