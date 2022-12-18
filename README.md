@@ -9,7 +9,12 @@ This project will demonstrate how to run a credential scan using Nessus Essentia
 
 <h2>Services Used</h2>
 
-- <b>Nessus Essentials</b> 
+- <b>Resource groups</b>
+- <b>Front door and CDN profiles</b> 
+- <b>Storage accounts</b> 
+- <b>Static website</b>
+- <b>Custom domain</b>
+- <b>Containers</b>
 
 <h2>Environments Used </h2>
 
