@@ -3,7 +3,13 @@
 <h2>Description</h2>
 
 
-This project will demonstrate how to run a credential scan using Nessus Essentials and showcase what to do with the vulnerabilities found in order to make your system secure.
+This project will demonstrate how I used Azure to create my resume website to showcase my skills and experience. I purchased the domain 
+
+
+
+
+In this project I demonstrate how to create a resume website using Azure. Please note that I did update the DNS records with the correct endpoint hostname in order for the website to work correctly.  Unfortunately, I forgot to add that part in the video.
+
 <br />
 
 
