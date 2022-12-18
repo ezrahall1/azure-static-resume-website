@@ -3,7 +3,7 @@
 <h2>Description</h2>
 
 
-This project will demonstrate how I used Azure to create my resume website to showcase my skills and experience. I purchased my domain ezrahallonline.co.uk and amended the CNAME records in order to host my static website on my custom domain. 
+This project will demonstrate how I used Azure to create my resume website to showcase my skills and experience. I purchased my domain ezrahallonline.co.uk and amended the CNAME records in order to host my static website using my custom domain. 
 
 <br />
 
