@@ -1,10 +1,7 @@
 <h1>Creating a resume website using Azure</h1>
 
 <h2>Description</h2>
-
-
-This project will demonstrate how I used Azure to create my resume website to showcase my skills and experience. I purchased my domain ezrahallonline.co.uk and amended the CNAME records in order to host my static website using my custom domain. 
-
+In this project, I will showcase the utilization of Azure to create my professional resume website, highlighting my skills and experience. I acquired the domain ezrahallonline.co.uk and made adjustments to the CNAME records to facilitate hosting my static website with a custom domain.
 <br />
 
 
